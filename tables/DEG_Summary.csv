@@ -1,0 +1,2 @@
+"total_tested_genes","strict_up","strict_down","loose_up","loose_down","strict_threshold","loose_threshold","method"
+23464,2671,1859,4616,3060,"padj < 0.01 and |log2FC| > 1.5","padj < 0.05 and |log2FC| > 1","DESeq2 on TCGA-COAD STAR-Counts"

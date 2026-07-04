@@ -1,0 +1,2 @@
+"genes_before_filter","genes_after_filter","filter_rule"
+60660,23464,"count >= 10 in at least max(3, 10% samples)"

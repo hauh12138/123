@@ -1,0 +1,2 @@
+"TP_samples","NT_samples","genes_before_filter","genes_after_filter","DEG_strict_up","DEG_strict_down","DEG_loose_up","DEG_loose_down","WGCNA_input_genes","selected_softPower","keyModule","keyModule_Tumor_cor","keyModule_Tumor_pvalue","CandidateHubGene_count","CoreHubGene_DEG_WGCNA_count","DownstreamHubGene_count","scRNA_loaded"
+481,41,60660,23464,2671,1859,4616,3060,8000,8,"royalblue",0.837688140317575,1.05203823715076e-138,4,4,4,FALSE
